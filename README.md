@@ -11,6 +11,12 @@ This project focuses on layout design, CSS transitions, and UI structure using m
 https://dhruvtalati.github.io/photography-sidebar/
 ---
 
+## 📸 Preview
+
+<img width="1901" height="905" alt="Screenshot 2026-01-18 163437" src="https://github.com/user-attachments/assets/aef76fc6-512a-4021-8bd8-79542cd92962" />
+
+---
+
 ## ✨ Features
 
 - Toggleable sidebar menu using **pure CSS**
